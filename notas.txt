@@ -1,0 +1,44 @@
+Resumen
+	maven
+	gradle
+	spring boot
+
+IDEs
+	STS
+	InteliJ
+
+Proyecto Visitas
+	spring data
+		crud repository
+	spring security
+	thymeleaf
+	h2
+	usuario en memoria
+
+Proyecto visitas-security-jdbc
+	usuario por BD
+	mongo BD en memoria para colecciones
+
+Proyecto ProjectSpring storeOnlineBoot
+	bootstrap + thymeleaf
+
+min 12; 3er video
+
+frameworks para app
+	native script
+	react native
+	ionic
+
+Proyecto no monolitico
+	easyfactapi
+		node js
+		npm
+
+	easyfactcliente
+		angular (google)
+		web token(jwt.io)
+
+Google cloud
+digitalocean
+
+carpeta 03 video 1 min 22.52
