@@ -22,7 +22,7 @@ Proyecto visitas-security-jdbc
 Proyecto ProjectSpring storeOnlineBoot
 	bootstrap + thymeleaf
 
-min 12; 3er video
+
 
 frameworks para app
 	native script
@@ -42,3 +42,29 @@ Google cloud
 digitalocean
 
 carpeta 03 video 1 min 22.52
+
+Carpeta 04
+
+
+Rest COntroller
+RestRepository
+
+Intro Spring CLoud -. Netflix
+
+Spring Cloud Config
+Spring CLoud -. Netflix
+	Eureka
+	hypstrix
+	zuul
+	ribbon
+	feigg
+Spring cloud bus
+
+Intro Spring Cloud Config
+
+carpeta 5
+
+video: 2017-09-22 21.07 Spring Cloud Config.mp4
+
+Spring Cloud Config
+	lab 3 server solution
